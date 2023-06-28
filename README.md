@@ -1,5 +1,5 @@
 # paiza
 
-## codding girl
+## coding girl
 
-![coding girl](./images.coding-girl.png)
+![coding girl](./images/coding-girl.png)
